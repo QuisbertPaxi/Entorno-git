@@ -1,2 +1,3 @@
 -"Ingieneria del Software, un enfoque practico" Ed. Mc Graw Hill 1993.
 -"Lenguaje Unificado de Modelado. Manual de referencia" Ed. Addison_Wesley 2000
+-"Analisis Estructurado Moderno" ED. Prentice Hall 1993.
