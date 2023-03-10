@@ -1,0 +1,1 @@
+la refactorizacion consiste en una transformacion al software preservando su comportamiento.
